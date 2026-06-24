@@ -1,2 +1,2 @@
-# project
-This is my first project.
+# Project
+This is my first project using HTML , CSS JavaScript
